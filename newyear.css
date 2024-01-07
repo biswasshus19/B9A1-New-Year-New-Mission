@@ -1,0 +1,210 @@
+* {
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #FFF;
+    background-image: url(resources/Banner\ Image.png); 
+    /* background-image : linear gradient (), url{*resources/Banner\ Image.png*}; */
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover; */
+    /* justify-content: center; */
+    width: 1420px;
+    height: 600px;
+    margin: 50px 140px 0px 140px;
+    border-radius: 16px;
+    border: 0;
+
+}
+
+container {
+    margin: auto;
+    width: 1420px;
+    height: 600px;
+    display: flex;
+}
+
+/* .header-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    /* margin-top: 177px; */
+/* line-height: normal; */
+*/ .new-year {
+    color: #fff;
+    text-align: -webkit-center;
+    padding: 201px 0 0 0;
+}
+
+.header-title2 {
+    /* color: #FFF; */
+    /* text-align: center; */
+    /* width: 600px; */
+    font-size: 60px;
+    /* font-weight: 800; */
+    /* margin: 233px 350px 177px; */
+}
+
+/* main related style  */
+.first-section {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    /* font-style: normal; */
+    font-weight: 700;
+    /* line-height: normal; */
+}
+
+.second-section {
+    /* color: #F00; */
+    text-align: center;
+    font-family: Inter;
+    /* font-size: 24px; */
+    margin-top: 48px;
+    /* font-style: normal; */
+    /* font-weight: 500; */
+    line-height: 0px;
+
+}
+
+p.holiday {
+    font-size: 21px;
+    color: #ef0d0d;
+    font-weight: normal;
+}
+
+h4.category {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.new-year-photo {
+    width: 802.9px;
+    height: 500px;
+    margin-left: 440px;
+}
+
+.new-year {
+    color: #fff;
+    padding: 168px 0 0 0;
+}
+
+.happy {
+    text-align: center;
+    font-size: 32px;
+    line-height: 0px;
+
+}
+
+.para-celebration {
+    padding: 0 250px 0 250px;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    text-align: -webkit-center;
+}
+
+.section-party {
+    background: #FFF;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover; */
+    /* justify-content: center; */
+    width: 1420px;
+    height: 600px;
+    margin: 50px 140px 0px 140px;
+    border-radius: 16px;
+    border: 0;
+
+}
+
+.midnight-party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 50px;
+    /* font-style: normal; */
+    font-weight: 900;
+    /* line-height: 88px; */
+    /* 137.5% */
+    /* letter-spacing: 7.04px; */
+}
+
+.midnight-contain {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    /* font-style: normal; */
+    font-weight: 400;
+    /* line-height: 30px; */
+    /* 166.667% */
+}
+
+.text-party {
+    padding: 69px 0px 0 154px;
+}
+
+button.btn-join {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #FFF;
+    background: transparent;
+    border: none;
+}
+
+/* information section style */
+.section-information {
+    width: 1420px;
+    height: 300px;
+    margin: 50px 140px 0px 196px;
+    text-align: center;
+}
+
+.btn-danger {
+    padding: 5px;
+    border-radius: 3px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    /* line-height: normal; */
+    text-transform: uppercase;
+    color: white;
+    /* background: transparent; */
+    border: none;
+    background-color: #F00;
+    width: 140px;
+    height: 55px;
+}
+
+
+.text {
+    text-align: center;
+}
+
+.information {
+    /* color:black; */
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+.span-class{
+    color: #F00;
+}
+
+/* offer class style */
+.offer-class{
+
+}
