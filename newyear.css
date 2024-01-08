@@ -342,7 +342,7 @@ img.set-happy-img {
 /* sell section style */
 .sell-section {
     width: 1600px;
-    height: 7335px;
+    /* height: 7335px; */
     background: #FFF;
     margin: 200px 140px 0px 205px;
     /* background-image: url(resources/Group\ 75.png); */
@@ -358,14 +358,17 @@ img.set-happy-img {
     font-weight: 500;
     /* line-height: normal;*/
 }
-.image-one{
+
+.image-one {
     margin: -632px 0 132px 108px;
     width: 40%;
     height: 589px;
 }
+
 img.color-image {
     margin: -15px 0px;
 }
+
 .holyday-class {
     color: #070211;
     text-align: center;
@@ -394,9 +397,202 @@ img.color-image {
 img.image-two {
     padding: 0 0 0 890px;
 }
+
 img.color-image {
     margin: -15px 0px;
 }
+
 img.image-discount {
     margin: -564px 0px 275px 718px;
+}
+
+/* best section style  */
+.best-section {
+    width: 1420px;
+    height: 600px;
+    margin: 50px 140px 0px 198px;
+    /* padding: 5px; */
+}
+
+.best-gift-head {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.portfilio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.portfilo-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+/* input field style  */
+.input-section {
+    width: 1420px;
+    height: 600px;
+    margin: 704px 140px 0px 198px;
+    padding: 71px 0 0 0;
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.form {
+    background-color: #4654e1;
+    width: 300px;
+    height: 44px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.img-class {
+    padding: 10px;
+}
+
+.subscribe {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 40px;
+    /* font-style: normal; */
+    font-weight: 900;
+    /* line-height: normal; */
+    text-transform: capitalize;
+}
+
+.lorem-class {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    /* font-style: normal; */
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.from-subscribe {
+    width: 648px;
+    height: 72px;
+    /* flex-shrink: 0; */
+    border-radius: 50px;
+    margin: 60px 77px 21px 356px;
+    ;
+    /* background: #FFF; */
+}
+
+.input-type {
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    /* font-style: normal; */
+    font-weight: 400;
+    /* line-height: normal; */
+    width: 391px;
+    height: 65px;
+    padding: 2px 0 0 32px;
+    border-radius: 35px;
+    border: 1px solid white;
+}
+
+.btn-subscribe {
+    background: #F00;
+    border-radius: 0px 50px 50px 0px;
+    width: 173px;
+    height: 70px;
+    font-size: 15px;
+    color: white;
+    border: 1px solid red;
+    margin: 0 -69px -3px -34px;
+}
+
+/* footer section style  */
+.last-footer {
+    width: 1226px;
+    height: 600px;
+    background: #070211;
+    color: #FFF;
+    margin: 0px 0 0 197px;
+    display: flex;
+    position: absolute;
+}
+
+/* .description-footer {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    /* font-style: normal; */
+    /* font-weight: 500;
+    line-height: 40px;
+    margin: 0 0 0 0;
+}
+.description-footer {
+    padding: 50px 0 0 50px;
+} */ */
+.footer-section{
+    display: flex;
+    width: 1420px;
+    height: 600px;
+    background: #070211;
+
+}
+
+.footer-left {
+    margin-left: 156px;
+    
+}
+.footer-right {
+    margin-left: 156px;
+    
+}
+
+
+.footer-title {
+    width: 1400px;
+    height: 400px;
+    background: #000000;
+    padding: 10px;
+    display: flex;
+    color: #fff;
+    margin: 0px 0 0 197px;
+}
+.footer-address{
+    color: #fff;
+}
+.footer-img {
+    margin: 197px 3px 0 68px;
+}
+.footer-left {
+    margin-left: 151px;
+}
+.copy-write{
+    text-align: left;
+}
+.unsubscribe{
+    
+    color: #f3ebeb;
+    text-align: right;
+    margin: -32px 671px -1px 53px;
+}
+.footer-bottom{
+    padding: 10px;
+    color: #fff;
+    margin: -96px 41px 23px 352px;
 }
